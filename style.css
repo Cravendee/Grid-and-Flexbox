@@ -78,6 +78,18 @@ button.lxry:hover {
   background-color: hsl(179, 100%, 13%);
   color: white;
 }
+a{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  border: 1px solid white;
+  border-radius: 20px;
+  cursor: pointer;
+  text-decoration: none;
+}
 @media screen and (max-width: 1440px) {
   main {
     display: flex;
