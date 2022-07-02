@@ -55,3 +55,15 @@
   height: 115px;
   width: 375px;
 }
+a{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-family: Lexend Deca;
+  font-weight: 400;
+  border: 1px solid white;
+  border-radius: 20px;
+  cursor: pointer;
+  text-decoration: none;
+}
